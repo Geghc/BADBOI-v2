@@ -4,29 +4,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
-global.ytname = "🕷BADBOI-v2-BUG🕷"
-global.socialm = "GitHub: BADBOI-v1"
+global.ownernomer = "243896216263"
+global.ownername = "🕷 Grimm 🕷"
+global.ytname = "🕷grimm🕷"
+global.socialm = "GitHub: Grimm-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownernumber = '243896216263,243896216263,243896216263'  //creator number
+global.ownername = 'Thomas Shelby' //owner name
+global.botname = '🕷 Shelby-v2-BUG🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.packname = 'shelby'
+global.author = 'BADBOI HACKER\n\nContact: +243896216263'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "BADBOI HACKER Tech."
+global.themeemoji = '🌹'
+global.wm = "SHELby HACKER Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [+]
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
