@@ -4,29 +4,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
-global.ytname = "🕷BADBOI-v2-BUG🕷"
-global.socialm = "GitHub: BADBOI-v1"
+global.ownernomer = "243896216263"
+global.ownername = " 𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓"
+global.ytname = "𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓"
+global.socialm = "𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownernumber ='243985766469,243985766469,243985766469'  //creator number
+global.ownername = '𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓' //owner name
+global.botname = 'ds'𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.packname = '𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓'
+global.author = 'BADBOI HACKER\n\nContact: +243985766469'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "BADBOI HACKER Tech."
+global.themeemoji = '🌹'
+global.wm = "𝘿𝘼𝙉𝙂𝙀𝙍𝙀𝙐𝙓 HACKER Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [∆]
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
